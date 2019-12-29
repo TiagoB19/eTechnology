@@ -1,0 +1,5 @@
+{
+  "connectionsString": {
+    "mySqlConnection": "Server=localhost;Database=eTechnologyDB;Uid=root;Pwd=1234;"
+  }
+}
